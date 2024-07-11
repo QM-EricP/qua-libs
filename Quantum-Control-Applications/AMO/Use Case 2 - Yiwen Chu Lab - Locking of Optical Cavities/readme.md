@@ -11,6 +11,8 @@ We will show the different building blocks used to lock one cavity and how to co
 
 ## 1. Context and experimental set-up
 
+Optomechanical experiments are influenced by classical excess laser phase noise that require the need of optical filter cavities [1,2]. On one side, to laser cool a resolved mechanical resonator to a phonon occupancy <1, the frequency laser frequncy noise $\bar{S}_{\omega \omega}$ at the mechanical frequency $\Omega_{m}$ needs to be kept below
+
 **Intro about mw to optical photon transduction**
 
 **Intro to PDH locking** [1]
@@ -32,4 +34,8 @@ The corresponding experimental set-up is as follows (cf. figure below):
 
 ## References
 
-<a id="1">[1]</a> Eric. D. Black, 'An introduction to Pound–Drever–Hall laser frequency stabilization', *American Journal of Physics* **69**, 79 (2001)
+<a id="1">[1]</a> Markus Aspelmeyer, Tobias J. Kippenberg, and Florian Marquardt, 'Cavity optomechanics', *Rev. Mod. Phys.* **86**, 1391 (2014)
+
+<a id="2">[2]</a> Ivan Galinskiy et al., 'Phonon counting thermometry of an ultracoherent membrane resonator near its motional ground state', *Optica* **7**, 6 (2020)
+
+<a id="3">[3]</a> Eric. D. Black, 'An introduction to Pound–Drever–Hall laser frequency stabilization', *American Journal of Physics* **69**, 79 (2001)
